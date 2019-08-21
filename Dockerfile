@@ -1,4 +1,4 @@
-FROM node:12.9.0
+FROM node:10.16.3
 
 # install docker
 RUN apt-get -y update; \
